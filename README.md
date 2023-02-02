@@ -8,7 +8,7 @@
 </div>
 
 <div id="badges" align="center">
-   <a href="https://www.linkedin.com/in/vladox-mir-052968252" target="blank"><img align="center"
+   <a href="https://www.linkedin.com/in/vladimir-aguacunchi" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/>
      </a>
