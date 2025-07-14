@@ -1,54 +1,44 @@
-<div id="header" align="center">
-    <h1 align="center">Hi 👋, I'm Vladimir</h1>
-    <h3 align="center">
-    A passionate student from the middle of the world, Ecuador. 
-    I really like frontend development and design patterns, along with non-relational databases. 
-    I am currently in my last year of my degree, software engineering.
+<div align="center">
+    <h1>¡Hola 👋! Soy Vladimir Aguacunchi</h1>
+    <h3>
+        Ingeniero de Software apasionado por el desarrollo frontend y arquitecturas escalables<br>
+        📍 Desde Ecuador · 💼 Buscando oportunidades desafiantes
     </h3>
-</div>
-
-<div id="badges" align="center">
-   <a href="https://www.linkedin.com/in/vladimir-aguacunchi" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/>
-     </a>
-</div>
-
-### 👨‍💻 About Me :
-
-- 📝 I regularly play video games
-
-- 📫 How to reach me **vladimiragua52@gmail.com**
-
-- 🌱 I’m currently learning **React.js**
-
-- 🌐 Website [youdevs.com](youdevs.com)
-
-
-<div align="left">
-    <h3>🔨 Languages and Tools:</h3>
-    <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-      </div>
+    <a href="https://www.linkedin.com/in/vladimir-aguacunchi" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+    </a>
+    <a href="https://vladimir-aguacunchi.up.railway.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" height="30"/>
+    </a>
 </div>
 
 ---
 
-### 📊 My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vladox69&theme=dracula)](https://git.io/streak-stats)
+### 🛠 Tecnologías Principales
+**Frontend:**  
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 
-![Vladimir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladox69&show_icons=true&theme=dracula)
+**Backend:**  
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> 
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"> 
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladox69&theme=dracula)](https://github.com/Vladox69/github-readme-stats)
+**Bases de Datos:**  
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 
+---
+
+### 📈 Estadísticas
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Vladox69&show_icons=true&theme=dracula&locale=es" alt="Estadísticas">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vladox69&layout=compact&theme=dracula&locale=es" alt="Lenguajes">
+</div>
+
+---
+
+### 📫 Contacto
+- ✉️ **Correo**: vladimiragua52@gmail.com  
+- 📱 **Teléfono**: +593 987910044  
+- 🌐 **Portafolio**: [vladimir-aguacunchi.up.railway.app](https://vladimir-aguacunchi.up.railway.app)  
+
+> *"Cuando no estoy programando, disfruto de los videojuegos y aprender sobre nuevas tecnologías."*
